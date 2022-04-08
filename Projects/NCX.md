@@ -17,4 +17,10 @@ Provide a web-based IDE that allows the creation of event-based business rules t
 * DSLs
 * HTML->JavaScript->Vue.js(?)
 ### Learning Schedule
-* Kubernetes
+* Monday (work) - Kubernetes in Action -> Learning Helm -> OpenFaas docs 
+* Monday (after) - Intro to Python for CS and DS
+* Tuesday (after) - Django 3 By Example
+* Wednesday (work) - Kubernetes in Action -> Learning Helm -> OpenFaas docs 
+* Wednesday (after) - DSLs
+* Thursday (after) - Intro to Python for CS and DS
+* Saturday/Sunday - Django 3 By Example
