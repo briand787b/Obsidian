@@ -4,7 +4,7 @@ Provide a web-based IDE that allows the creation of event-based business rules t
 
 ## Prerequisites
 ### Discrete Skills
-* DSLs
+* DSL
 * Kubernetes
 * Helm
 * OpenFaas
@@ -24,3 +24,14 @@ Provide a web-based IDE that allows the creation of event-based business rules t
 * Wednesday (after) - DSLs
 * Thursday (after) - Intro to Python for CS and DS
 * Saturday/Sunday - Django 3 By Example
+
+## Skill Paths
+* Kubernetes->Helm->OpenFaas
+* DSLs
+* HTML->JavaScript->React.js
+## Learning Schedule
+* Monday (work) - Kubernetes in Action -> Learning Helm -> OpenFaas docs 
+* Monday (after) - 
+* Tuesday (after) - DSLs
+* Wednesday (work) - Kubernetes in Action -> Learning Helm -> OpenFaas docs 
+* Wednesday (after) - DSLs

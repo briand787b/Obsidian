@@ -90,6 +90,14 @@
   "active": "735742cbbc9f086c",
   "lastOpenFiles": [
     "Projects/NCX.md",
-    "Django/Installation.md"
+    "Kubernetes/Services.md",
+    "Kubernetes/Pods.md",
+    "Kubernetes/Architecture.md",
+    "Kubernetes/Kubectl.md",
+    "Kubernetes/README.md",
+    "Projects/Blog.md",
+    "Projects/Tymp.md",
+    "Primary Skillset.md",
+    "Projects/_Meta.md"
   ]
 }
