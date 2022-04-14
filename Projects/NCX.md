@@ -25,13 +25,17 @@ Provide a web-based IDE that allows the creation of event-based business rules t
 * Thursday (after) - Intro to Python for CS and DS
 * Saturday/Sunday - Django 3 By Example
 
+=============== Alternative =================
+
 ## Skill Paths
 * Kubernetes->Helm->OpenFaas
 * DSLs
-* HTML->JavaScript->React.js
+* HTML->JavaScript->Vue.js
 ## Learning Schedule
-* Monday (work) - Kubernetes in Action -> Learning Helm -> OpenFaas docs 
-* Monday (after) - 
-* Tuesday (after) - DSLs
-* Wednesday (work) - Kubernetes in Action -> Learning Helm -> OpenFaas docs 
-* Wednesday (after) - DSLs
+* Monday (work) - Kubernetes in Action 
+* Monday (after) - Vue.js
+* Tuesday (after) - DSLs Made Easy
+* Wednesday (work) - Kubernetes in Action
+* Wednesday (after) - DSLs Made Easy
+* Thursday (after) - Learning Helm or OpenFaas docs
+* Friday (work) ?- Kubernetes in Action
