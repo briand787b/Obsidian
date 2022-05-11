@@ -5,3 +5,6 @@ Kubectl always talks to the API server, never the resources directly
 Minimal details: `kubectl get <object-type>`
 More details: `kubectl get -o wide <object-tpe>`
 Full description: `kubectl describe <object-type> <object-id>`
+
+## Applying Manifests
+Recursively apply a directory: `kubectl apply -f <filename> -R`

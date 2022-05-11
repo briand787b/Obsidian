@@ -1,0 +1,1 @@
+* Leaving Safari O'Reilly open seems to prevent the computer from sleeping

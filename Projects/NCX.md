@@ -38,4 +38,3 @@ Provide a web-based IDE that allows the creation of event-based business rules t
 * Wednesday (work) - Kubernetes in Action
 * Wednesday (after) - DSLs Made Easy
 * Thursday (after) - Learning Helm or OpenFaas docs
-* Friday (work) ?- Kubernetes in Action

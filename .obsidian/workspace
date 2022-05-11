@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projects/NCX.md",
+            "file": "Manjaro Installation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/NCX.md",
+                "file": "Manjaro Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "735742cbbc9f086c",
   "lastOpenFiles": [
+    "Manjaro Installation.md",
+    "EDS Manual Testing.md",
+    "TODO.md",
+    "scratch.md",
+    "README.md",
+    "Projects/Kariandusi.md",
     "Projects/NCX.md",
-    "Projects/Blog/Tutorial.md",
-    "_README.md",
-    "Primary Skillset.md",
-    "Projects/_README.md",
-    "Kubernetes/_README.md",
-    "Projects/Blog/Opinion.md",
-    "Projects/Blog/Book Review.md",
-    "Projects/Blog/_README.md",
-    "Kubernetes/Services.md"
+    "Kubernetes/Pods.md",
+    "Kubernetes/Kubectl.md",
+    "CSOD.md"
   ]
 }
