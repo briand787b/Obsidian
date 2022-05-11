@@ -90,14 +90,14 @@
   "active": "735742cbbc9f086c",
   "lastOpenFiles": [
     "Manjaro Installation.md",
-    "EDS Manual Testing.md",
-    "TODO.md",
-    "scratch.md",
-    "README.md",
-    "Projects/Kariandusi.md",
     "Projects/NCX.md",
-    "Kubernetes/Pods.md",
-    "Kubernetes/Kubectl.md",
-    "CSOD.md"
+    "Projects/Blog/Tutorial.md",
+    "_README.md",
+    "Primary Skillset.md",
+    "Projects/_README.md",
+    "Kubernetes/_README.md",
+    "Projects/Blog/Opinion.md",
+    "Projects/Blog/Book Review.md",
+    "Projects/Blog/_README.md"
   ]
 }
